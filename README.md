@@ -21,6 +21,7 @@ There might be some issue installing pyaudio. If you face some error then try in
 ```
 1. Create two directory ss and music in the D:\ drive for storing the screenshots and music respectively.
 2. You need to change the my_email, my_passwd and r_email for using the send e-mail functionality. You also need to change the settings in your account and allow third party applications for successfully sending mails.
+3. Also make shure you create a data.txt in the same folder where this repo is present to impliment the remember that functionality.
 ```
 ### Voice Commands
 
