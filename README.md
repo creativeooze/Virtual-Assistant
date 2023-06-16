@@ -4,15 +4,11 @@ Python app that uses speech recognition and text-to-speech
 
 ### Dependencies
 
+To install the required extensions, navigate to the repository and open the terminal
+After that run the following command 
+
 ```
-pip install speechrecognition
-pip install pyttsx3
-pip install pyaudio
-pip install playsound
-pip install pyautogui
-pip install wikipedia
-pip install pyjokes
-pip install psutil
+pip install -r requirements.txt
 ```
 ```
 There might be some issue installing pyaudio. If you face some error then try installing the .whl file from [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio]
